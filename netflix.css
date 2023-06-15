@@ -120,3 +120,24 @@ nav button{
     flex-wrap:wrap;
     padding:50px 0;
 }
+
+.text-col{
+    flex-basis:50%;
+    margin-bottom:20px;
+}
+.img-col{
+    flex-basis:50%;
+    margin-bottom:20px;
+}
+
+.img-col img{
+    display:block;
+    margin:auto;
+    width:90%;
+}
+.features h2{
+    font-size:50px;
+    font-weight:600;
+    margin-bottom:40px;
+}
+
